@@ -18,13 +18,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+        
           Learn React{" "}
         </a>{" "}
       </header>{" "}
     </div>
   );
 }
-
 function Person() {
   return (<div>
     <h3>React App</h3>
